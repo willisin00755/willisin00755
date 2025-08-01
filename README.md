@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm William
 
 I'm a QA Engineer with a passion for ensuring the quality and reliability of software products. I have experience with a variety of technologies and tools, including TypeScript, GitHub, HTML, CSS, JavaScript, Jenkins, Playwright, Python, TensorFlow, and Keras.
 
